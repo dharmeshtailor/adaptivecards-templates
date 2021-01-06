@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": true,
+  "Values": {
+    "AzureWebJobsStorage": "CfDJ8N+01Yydu+9On8okaCmPgfa580//e6cOwT/tHxCXt8xT1pL44PjUpwvJml8IjriIENQk1MLocRG+u6KpMSS9L8ibOUhizOP07h2Iq6IUrwJbj3hJ0TEJ7eYk4KAllyBN1SAfrHR6KrabxfLZhXsthxnuOXyDUrjq4yf/r2x9uQ2ixqgOO+u/Dm0U8yKw7tYFji1Auzno+ZKiwQIbSUvkBEWxUqSomUSLIrPMCwXmxxoQ8rFJj6+qwcOzCOhaSd74ULeuRITYME9U9FzECV3l9iu6V4mXenMs0MlVeUF842fmawwAccTfkxVjmtSqwmmvIA==",
+    "NO_PROXY": "CfDJ8N+01Yydu+9On8okaCmPgfb1ns1FhtT3hoRVlqdU7gQPe5twgv0dcRp22dvJYhUyoSDSMIn/iQ5HmgWwKOfnzjtjYBhNuuqPZyoXUm2Gl6a8ct6bM6GGjIEjKg5a6ZUGfBT3QKEDPFrXlZ5kRRaVQWs=",
+    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8N+01Yydu+9On8okaCmPgfZwbMtypJJlN4MKrAOyyiLponl9JebM0KxZrTcRKo2D3bxsl2vJiMLnflohqsE61Ozuu0BI8HbhGaIwYZMQ0aknxfasPXZUHrCqS53lp8LGlA=="
+  },
+  "ConnectionStrings": {}
+}
